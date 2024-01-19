@@ -1,8 +1,8 @@
-### Hi there 👋 I am Julie!
+## Hi there 👋 I am Julie!
 
 **I am a data journalism student at Columbia Journalism School.**
 
-# Get to know me:
+## Get to know me:
 - 😄 Pronouns: she/her/hers
 
 - 🔭 I’m currently working on building my personal portfolio website.
